@@ -9,3 +9,7 @@ Here are some of my coordinates online:
 - 💻 [dfm.io](https://dfm.io)
 - 🐦 [@exoplaneteer](https://twitter.com/exoplaneteer)
 - 📬 [foreman.mackey@gmail.com](mailto:foreman.mackey@gmail.com)
+
+### Achievements
+
+![image](https://user-images.githubusercontent.com/9323819/115445266-a43c5e80-a1e3-11eb-88e3-061cff8b045b.png)
