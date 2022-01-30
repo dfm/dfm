@@ -8,4 +8,4 @@ Here are some of my coordinates online:
 
 - 💻 [dfm.io](https://dfm.io)
 - 🐦 [@exoplaneteer](https://twitter.com/exoplaneteer)
-- 📬 [foreman.mackey@gmail.com](mailto:foreman.mackey@gmail.com)
+- 📬 [dfm@dfm.io](mailto:dfm@dfm.io)
