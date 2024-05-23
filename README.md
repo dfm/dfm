@@ -1,8 +1,6 @@
 ### Hi, I’m Dan
 
-I’m a Research Scientist at the [Flatiron Institute](https://www.simonsfoundation.org/flatiron/)’s [Center for Computational Astrophysics](https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics/) in New York City.
-I'm interested in scientific software development, open and reproducible scientific practices, and many other things.
-I create too many GitHub repositories and I try to keep up with maintaining them.
+I’m a Research Engineer at Google Deepmind in New York City where I'm currently working on [JAX](https://github.com/google/jax).
 
 Here are some of my coordinates online:
 
