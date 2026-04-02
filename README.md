@@ -1,6 +1,6 @@
 ### Hi, I’m Dan
 
-I’m a Research Engineer at Google Deepmind in New York City where I'm currently working on [JAX](https://github.com/google/jax).
+I’m a Research Engineer at Anthropic, working on AI interpretability.
 
 Here are some of my coordinates online:
 
